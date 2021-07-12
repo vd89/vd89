@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 
 
-**vd89/vd89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **vd89/vd89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 ### - 🔭 I’m currently working on ... Full Stack MERN App
 ### - 🌱 I’m currently learning ... React, Nodejs,MongoDB
