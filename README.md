@@ -7,10 +7,13 @@
 
 ### - 🔭 I’m currently working on ... Full Stack MERN App
 ### - 🌱 I’m currently learning ... React, Nodejs,MongoDB
-### - 👯 I’m looking to collaborate on ... React 
-### - 🤔 I’m looking for help with ... Finding new 
+### - 👯 I’m looking to collaborate on ... React
+### - 🤔 I’m looking for help with ... Finding new
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+  - My way of learning and trying to solve the problems that i have with my project
+
+- 📫 How to reach me: ... [Dixit Vora](dixit.vora@outlook.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  - I Like to code and try to fix what every I like
 
